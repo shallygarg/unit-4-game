@@ -1,0 +1,29 @@
+body{
+    background-image: url("../../assets/images/background.jpg");
+}
+.plyrs{
+    background-color: white;
+    width: 140px;
+    height: 100px;
+    border-color: green;
+    
+}
+
+.players, .enemies, .defender {
+    width: 120px;
+    height: 80px;
+    display: inline-block;
+    border-width: 10px;
+    border-color: white;  
+    border-style: solid;
+    outline: 2px solid green;
+} 
+.enemies{
+    border-color: black;
+} 
+.defender{
+    border-color: red;
+} */
+.images{
+    height: 100px;
+}
